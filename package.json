@@ -1,0 +1,22 @@
+{
+  "name": "2019-portfolio",
+  "version": "1.0.0",
+  "description": "My Front End Web Developer portfolio for 2019!",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikerobards/2019-Portfolio.git"
+  },
+  "author": "Michael Robards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikerobards/2019-Portfolio/issues"
+  },
+  "homepage": "https://github.com/mikerobards/2019-Portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
