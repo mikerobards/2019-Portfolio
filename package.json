@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mikerobards/2019-Portfolio#readme",
   "dependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   }
 }
